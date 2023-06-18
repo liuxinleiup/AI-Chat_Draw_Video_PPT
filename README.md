@@ -23,21 +23,28 @@
 ## 1.无需工具
 [海艺seaart](https://www.seaart.ai/s/o3731-)：个人感觉质量美感还是不错的，也会有意境   
 ## 2.需要工具  
-[Discord](https://discord.com/)：相当于国内的YY语音（可嵌入：PlaygroundAl、LeonardoAi、Dreamlike、Midjourney、BlueWillowAl、Instantart....）  
+[Discord](https://discord.com/)：相当于国内的YY语音（可嵌入：PlaygroundAl、LeonardoAi、Dreamlike、Midjourney、BlueWillowAl、NowAI、Instantart、Trace Journey....）  
 可自己创建服务器子区；输入/imagine加描述生成图片；U代表第几个；V代表类型  
 
 [PlaygroundAl](https://playgroundai.com/)：每天1000张图片，个人感觉质量美感还是不错的，通过输入描述可编辑图片  
-[LexicaArt](https://lexica.art/)：每天100张，生成的质量高，适合当成素材库  
+[LexicaArt](https://lexica.art/)：每天100张，生成的质量高，**适合当成素材库**  
 [LeonardoAI](https://app.leonardo.ai/)：每天150积分，个人感觉质量美感还是不错的  
-[Dreamlike](https://dreamlike.art/)：每天24学分，可进行编辑  
-[BlueWillowAl](https://www.bluewillow.ai/)：个人感觉质量美感还是不错的，**需要继承到Discord使用**    
+[Dreamlike](https://dreamlike.art/)：每天24学分，可进行编辑   
+[BlueWillowAl](https://www.bluewillow.ai/)：个人感觉质量美感还是不错的，**需要继承到Discord使用**   
+[NowAI](https://nowai.ai/)：每天50颗宝石，**需要继承到Discord使用**  
 [Midjourney](https://www.midjourney.com/home/)：现在好像开始收费了，**需要继承到Discord使用**  
+[Trace Journey](https://discord.gg/e9khfZVE)：现在好像开始收费了，**需要继承到Discord使用**  
 [Dall E2](https://openai.com/dall-e-2)：基于OpenAI  
+[Bing Image Creator](https://cn.bing.com/create)：基于微软  
+[Adobe Firefly](https://firefly.adobe.com/denied.html)：基于Adobe，图像比较真实  
 [Nightcafe](https://nightcafe.studio/)：每天5积分  
+[GetimgAI](https://getimg.ai/ref/08OCcACr0)：每月100张图片，可编辑图片  
 [Instantart](https://instantart.io/)：生成时间比较长，服务器可能报错  
 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：需要安装[Python环境](https://www.python.org/downloads/release/python-3106/)和[Git](https://git-scm.com/download/win)  
+## 3.插件
+[SynthesysX](https://synthesys.io/x/)：浏览器选择图片右键选择该插件可以进行重绘    
 
- 
+
 
 
 
