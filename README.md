@@ -35,7 +35,7 @@
 [Midjourney](https://www.midjourney.com/home/)：现在好像开始收费了，**需要继承到Discord使用**  
 [Trace Journey](https://discord.gg/e9khfZVE)：现在好像开始收费了，**需要继承到Discord使用**  
 [Dall E2](https://openai.com/dall-e-2)：基于OpenAI  
-[Bing Image Creator](https://cn.bing.com/create)：基于微软  
+[Bing Image Creator](https://cn.bing.com/create)：基于微软,个人感觉质量美感还是不错的    
 [Adobe Firefly](https://firefly.adobe.com/denied.html)：基于Adobe，图像比较真实  
 [Nightcafe](https://nightcafe.studio/)：每天5积分  
 [GetimgAI](https://getimg.ai/ref/08OCcACr0)：每月100张图片，可编辑图片  
