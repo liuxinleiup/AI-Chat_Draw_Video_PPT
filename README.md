@@ -1,4 +1,4 @@
-# AI聊天和绘画
+# AI聊天和AI绘画
 # 一：AI聊天
 ## 1.无需工具
 [AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月500,000字数  
