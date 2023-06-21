@@ -48,7 +48,7 @@
 ## 1.国外
 [HeyGen](https://app.heygen.com/guest/templates?cid=794e92e2)：每天1分钟，质量比较好，可以换脸，相对慢点  
 [DID](https://studio.d-id.com/)：每天20积分，比较快  
-[Artflow](app.artflow.ai): 图片100积分，视频30积分，**Discord**   
+[Artflow](app.artflow.ai): 图片100积分，视频30积分，可以制作故事情节含有不同角色搭配，**Discord**   
 [MotionLeap](https://play.google.com/store/apps/details?id=com.lightricks.pixaloop&hl=en_US)：制作图片动画  
 [Adobe character-animator](https://www.adobe.com/nz/products/character-animator.html)：动画角色制作，可添加表情和动作    
 ## 2.国内
