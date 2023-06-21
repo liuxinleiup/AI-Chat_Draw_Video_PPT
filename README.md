@@ -1,4 +1,4 @@
-# AI聊天和AI绘画
+# AI聊天和AI绘画和AI视频
 # 一：AI聊天
 ## 1.无需工具
 [AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月500,000字数  
@@ -44,11 +44,13 @@
 ## 3.插件
 [SynthesysX](https://synthesys.io/x/)：浏览器选择图片右键选择该插件可以进行重绘    
 
-
-
-
-
-
-
+# 三：AI视频
+## 1.国外
+[HeyGen](https://app.heygen.com/guest/templates?cid=794e92e2)：每天1分钟，质量比较好，可以换脸，相对慢点  
+[DID](https://studio.d-id.com/)：每天20积分，比较快  
+[MotionLeap](https://play.google.com/store/apps/details?id=com.lightricks.pixaloop&hl=en_US)：制作图片动画  
+## 2.国内
+[数字人](https://docs.qq.com/doc/DTmhESGNSV0FQV29h)：免费  
+[腾讯智影](https://zenvideo.qq.com/)：比较贵  
 
 
