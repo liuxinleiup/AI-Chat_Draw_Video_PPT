@@ -26,10 +26,10 @@
 [Discord](https://discord.com/)：相当于国内的YY语音（可嵌入：PlaygroundAl、LeonardoAi、Dreamlike、Midjourney、BlueWillowAl、NowAI、Instantart、Trace Journey....）  
 可自己创建服务器子区；输入/imagine加描述生成图片；U代表第几个；V代表类型  
 
-[PlaygroundAl](https://playgroundai.com/)：每天1000张图片，个人感觉质量美感还是不错的，通过输入描述可编辑图片  
+[PlaygroundAl](https://playgroundai.com/)：每天1000张图片，个人感觉质量美感还是不错的，通过输入描述可编辑图片，**Discord**     
 [LexicaArt](https://lexica.art/)：每天100张，生成的质量高，**适合当成素材库**  
-[LeonardoAI](https://app.leonardo.ai/)：每天150积分，个人感觉质量美感还是不错的  
-[Dreamlike](https://dreamlike.art/)：每天24学分，可进行编辑   
+[LeonardoAI](https://app.leonardo.ai/)：每天150积分，个人感觉质量美感还是不错的，**Discord**     
+[Dreamlike](https://dreamlike.art/)：每天24学分，可进行编辑，**Discord**      
 [BlueWillowAl](https://www.bluewillow.ai/)：个人感觉质量美感还是不错的，**需要继承到Discord使用**   
 [NowAI](https://nowai.ai/)：每天50颗宝石，**需要继承到Discord使用**  
 [Midjourney](https://www.midjourney.com/home/)：现在好像开始收费了，**需要继承到Discord使用**  
@@ -39,7 +39,7 @@
 [Adobe Firefly](https://firefly.adobe.com/denied.html)：基于Adobe，图像比较真实  
 [Nightcafe](https://nightcafe.studio/)：每天5积分  
 [GetimgAI](https://getimg.ai/ref/08OCcACr0)：每月100张图片，可编辑图片  
-[Instantart](https://instantart.io/)：生成时间比较长，服务器可能报错  
+[Instantart](https://instantart.io/)：生成时间比较长，服务器可能报错，**Discord**     
 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：需要安装[Python环境](https://www.python.org/downloads/release/python-3106/)和[Git](https://git-scm.com/download/win)  
 ## 3.插件
 [SynthesysX](https://synthesys.io/x/)：浏览器选择图片右键选择该插件可以进行重绘    
@@ -48,6 +48,7 @@
 ## 1.国外
 [HeyGen](https://app.heygen.com/guest/templates?cid=794e92e2)：每天1分钟，质量比较好，可以换脸，相对慢点  
 [DID](https://studio.d-id.com/)：每天20积分，比较快  
+[Artflow](app.artflow.ai):图片100积分，视频30积分，**Discord**   
 [MotionLeap](https://play.google.com/store/apps/details?id=com.lightricks.pixaloop&hl=en_US)：制作图片动画  
 [Adobe character-animator](https://www.adobe.com/nz/products/character-animator.html)：动画角色制作，可添加表情和动作    
 ## 2.国内
