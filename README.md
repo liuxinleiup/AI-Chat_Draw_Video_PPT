@@ -43,6 +43,7 @@
 [GetimgAI](https://getimg.ai/ref/08OCcACr0)：每月100张图片，可编辑图片  
 [Instantart](https://instantart.io/)：生成时间比较长，服务器可能报错，**Discord**     
 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：需要安装[Python环境](https://www.python.org/downloads/release/python-3106/)和[Git](https://git-scm.com/download/win)  
+[Civitai](https://civitai.com/)：免费下载stable diffusion 模型，**适合当成素材库**  
 ## 2.国内
 [海艺seaart](https://www.seaart.ai/s/o3731-)：个人感觉质量美感还是不错的，也会有意境   
 ## 3.插件
