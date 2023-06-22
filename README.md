@@ -2,10 +2,13 @@
 # 一：AI聊天
 ## 1.国外
 [OpenAI](https://openai.com/)：这个也是最流行的，是OpenAI旗下的  
-[Poe](https://poe.com/)：国外问答社区Quora推出的AI问答机器人工具，集成了ChatGPT/GPT-4、Claude+  
+[Claude DailyBot](https://slack.com/intl/zh-cn/)：基于slack相当于国内钉钉  
 [CharacterAI](https://beta.character.ai/)：角色那是相当丰富  
 [shared1](https://chat-shared1.zhile.io/)：别人分享账号  
 [shared2](https://chat-shared.zhile.io/)：别人分享账号  
+[HuggingFace](https://huggingface.co/chat)：基于Open Assistant模型  
+[Poe](https://poe.com/)：国外问答社区Quora推出的AI问答机器人工具，集成了ChatGPT/GPT-4、Claude+  
+[OpenGP](https://open-gpt.app/zh)：基于OpenAI的平台,让用户可以使用和创建基于ChatGPT的小应用  
 ## 2.国内
 [AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月500,000字数  
 [BingAI](https://github.com/adams549659584/go-proxy-bingai)：三种对话模式  
@@ -58,11 +61,6 @@
 
 # 四：AI相关
 [ainav](https://www.ainav.cn/)：汇集了很多平台  
-[]()：
-
-
-
-
 
 
 
