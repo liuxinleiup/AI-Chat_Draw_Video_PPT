@@ -2,7 +2,7 @@
 # 一：AI聊天
 ## 1.国外
 [OpenAI](https://openai.com/)：这个也是最流行的，是OpenAI旗下的  
-[Poe](https://poe.com/)：国外问答社区Quora推出的AI问答机器人工具，集成了ChatGPT/GPT-4、Claude+
+[Poe](https://poe.com/)：国外问答社区Quora推出的AI问答机器人工具，集成了ChatGPT/GPT-4、Claude+  
 [CharacterAI](https://beta.character.ai/)：角色那是相当丰富  
 [shared1](https://chat-shared1.zhile.io/)：别人分享账号  
 [shared2](https://chat-shared.zhile.io/)：别人分享账号  
