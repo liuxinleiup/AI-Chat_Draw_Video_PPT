@@ -33,7 +33,7 @@
 [LeonardoAI](https://app.leonardo.ai/)：每天150积分，个人感觉质量美感还是不错的，**Discord**     
 [Dreamlike](https://dreamlike.art/)：每天24学分，可进行编辑，**Discord**      
 [BlueWillowAl](https://www.bluewillow.ai/)：个人感觉质量美感还是不错的，**需要继承到Discord使用**   
-[NowAI](https://nowai.ai/)：每天50颗宝石，**需要继承到Discord使用**  
+[NowAI](https://nowai.ai/)：每天50颗宝石，输入/create加描述生成图片,**需要继承到Discord使用**  
 [Midjourney](https://www.midjourney.com/home/)：现在好像开始收费了，**需要继承到Discord使用**  
 [Trace Journey](https://discord.gg/e9khfZVE)：现在好像开始收费了，**需要继承到Discord使用**  
 [Dall E2](https://openai.com/dall-e-2)：基于OpenAI  
