@@ -42,7 +42,7 @@
 [Adobe Firefly](https://firefly.adobe.com/denied.html)：基于Adobe，图像比较真实  
 [Nightcafe](https://nightcafe.studio/)：每天5积分  
 [GetimgAI](https://getimg.ai/ref/08OCcACr0)：每月100张图片，可编辑图片  
-[Instantart](https://instantart.io/)：生成时间比较长，服务器可能报错，**Discord**【含有成年人内容】     
+[Instantart](https://instantart.io/)：生成时间比较长，服务器可能报错，但还不错**Discord**      
 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：需要安装[Python环境](https://www.python.org/downloads/release/python-3106/)和[Git](https://git-scm.com/download/win)  
 [Civitai](https://civitai.com/)：免费下载stable diffusion 模型，**适合当成素材库**  
 ## 2.国内
