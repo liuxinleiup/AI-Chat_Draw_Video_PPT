@@ -10,6 +10,8 @@
 [Poe](https://poe.com/)：国外问答社区Quora推出的AI问答机器人工具，集成了ChatGPT/GPT-4、Claude+  
 [OpenGP](https://open-gpt.app/zh)：基于OpenAI的平台,让用户可以使用和创建基于ChatGPT的小应用  
 ## 2.国内
+[文心一言](https://yiyan.baidu.com/)：百度旗下   
+[百度AI](https://chat.baidu.com/)：百度旗下      
 [AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月500,000字数  
 [BingAI](https://github.com/adams549659584/go-proxy-bingai)：三种对话模式  
 [插件](https://chrome.zzzmh.cn/#/index)：进去搜索下载（iTab新标签页、Wetab 新标签页）安装到浏览器即可，里面有内置组件  
