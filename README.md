@@ -47,7 +47,8 @@
 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：需要安装[Python环境](https://www.python.org/downloads/release/python-3106/)和[Git](https://git-scm.com/download/win)  
 [Civitai](https://civitai.com/)：免费下载stable diffusion 模型，**适合当成素材库**  
 ## 2.国内
-[海艺seaart](https://www.seaart.ai/s/o3731-)：个人感觉质量美感还是不错的，也会有意境   
+[海艺seaart](https://www.seaart.ai/s/o3731-)：个人感觉质量美感还是不错的，也会有意境
+[XCole](https://www.xcole.cn/?c=yjpoo&seed=1701270952)：初始130能量   
 ## 3.插件
 [SynthesysX](https://synthesys.io/x/)：浏览器选择图片右键选择该插件可以进行重绘    
 
@@ -80,6 +81,8 @@
 [美图 Aippt](https://www.x-design.com/ppt/)：7天免费试用  
 [万彩智演](https://smartslides.wmindmap.cn/)   
 [彩漩](https://app.caixuan.cc/recent)   
+[灵感PPT](https://oeldg7.linganoffice.com/home?visit=oeldg7)：初始1500积分   
+[秒出PPT](https://10sppt.com/pptx/edit/workspace)：需要注册登录   
 
 # 五：AI相关
 [ainav](https://www.ainav.cn/)：汇集了很多平台  
