@@ -14,8 +14,7 @@
 [百度AI](https://chat.baidu.com/)：百度旗下      
 [AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月500,000字数  
 [BingAI](https://github.com/adams549659584/go-proxy-bingai)：三种对话模式  
-[插件](https://chrome.zzzmh.cn/#/index)：进去搜索下载（iTab新标签页、Wetab 新标签页）安装到浏览器即可，里面有内置组件  
-百度有一个AI对话：有一定逻辑目前免费   
+[插件](https://chrome.zzzmh.cn/#/index)：进去搜索下载（iTab新标签页、Wetab 新标签页）安装到浏览器即可，里面有内置组件   
 
 # 二：AI绘画
 ## 描述词  
