@@ -1,4 +1,4 @@
-# AI聊天和AI绘画和AI视频
+# AI聊天和AI绘画和AI视频和AI制作PPT
 # 一：AI聊天
 ## 1.国外
 [OpenAI](https://openai.com/)：这个也是最流行的，是OpenAI旗下的  
@@ -62,9 +62,27 @@
 [数字人](https://docs.qq.com/doc/DTmhESGNSV0FQV29h)：免费  
 [腾讯智影](https://zenvideo.qq.com/)：比较贵  
 
-# 四：AI相关
-[ainav](https://www.ainav.cn/)：汇集了很多平台  
+# 四：AI制作PPT  
+## 1.国外
+[gamma](https://gamma.app/signup?r=k8pzhpdz4h4dotw)：好用的，初始用户400积分  
+[Tome](https://tome.app/)：初始用户500积分  
+[Prezo](https://www.prezo.ai/)  
+[Decktopus](https://www.decktopus.com/)   
+[Wonderslide](https://wonderslide.com/create/)：需要先上传一份本地PPT草稿   
+[Beautiful.ai](https://www.beautiful.ai/slide-templates)   
+[Slidebean](https://slidebean.com/)   
+[Slideshare](https://www.slideshare.net/)   
+[PPTmon](https://pptmon.com/)   
+## 2.国内
+[讯飞智文](https://zhiwen.xfyun.cn/?ch=16862172514)：好用的，初始用户1000积分   
+[AiPPT](https://www.aippt.cn/workspace)：需要登录注册，会员较贵(免费10次)  
+[Ai PPT 比格设计](https://bigesj.com/ai-ppt/)：需要登录注册  
+[美图 Aippt](https://www.x-design.com/ppt/)：7天免费试用  
+[万彩智演](https://smartslides.wmindmap.cn/)   
+[彩漩](https://app.caixuan.cc/recent)   
 
+# 五：AI相关
+[ainav](https://www.ainav.cn/)：汇集了很多平台  
 
 
 
