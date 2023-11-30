@@ -86,7 +86,7 @@
 
 # 五：AI相关
 [ainav](https://www.ainav.cn/)：汇集了很多平台  
-
+[非猪AI导航](https://feizhuke.com/aippt-tuijian.html)：汇集了很多平台   
 
 
 
