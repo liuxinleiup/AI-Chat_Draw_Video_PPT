@@ -4,18 +4,29 @@
 [OpenAI](https://openai.com/)：这个也是最流行的，是OpenAI旗下的  
 [Claude DailyBot](https://slack.com/intl/zh-cn/)：基于slack相当于国内钉钉  
 [CharacterAI](https://beta.character.ai/)：角色那是相当丰富  
+[Google Bard](https://bard.google.com/?ref=www.ainav.cn)：谷歌旗下【国外】   
+[xAI Grok](https://grok.x.ai/?ref=www.ainav.cn)：马斯克旗下【国外】   
 [shared1](https://chat-shared1.zhile.io/)：别人分享账号  
 [shared2](https://chat-shared.zhile.io/)：别人分享账号  
 [HuggingFace](https://huggingface.co/chat)：基于Open Assistant模型  
 [Poe](https://poe.com/)：国外问答社区Quora推出的AI问答机器人工具，集成了ChatGPT/GPT-4、Claude+  
 [OpenGP](https://open-gpt.app/zh)：基于OpenAI的平台,让用户可以使用和创建基于ChatGPT的小应用  
 ## 2.国内
-[文心一言](https://yiyan.baidu.com/)：百度旗下，聊天，绘画，流程图，可以加入插件     
-[百度AI](https://chat.baidu.com/)：百度旗下，聊天，写代码        
+[讯飞星火认知大模型](https://xinghuo.xfyun.cn/desk)：科大讯飞旗下，PPT，绘画，编程，简历生成，不同角色【可以加入插件】  
+[豆包](https://www.doubao.com/chat/)：字节跳动 抖音旗下，聊天，画画，音乐电台【有很多智能体库】   
+[智谱清言](https://chatglm.cn/main/detail)：清华大学实验室研发，聊天，写代码，文档操作   
+[360智脑 - 体验平台](https://chat.360.com/?src=ai_360_com)：360旗下，不同角色，绘画，写代码   
+[通义千问](https://qianwen.aliyun.com/?ref=www.ainav.cn)：阿里巴巴旗下   
+[腾讯混元](https://hunyuan.tencent.com/)：腾讯旗下  
+[天工AI搜索](https://search.tiangong.cn/)：聊天，创作，阅读【可以对网页信息进行分析】   
+[面壁露卡](https://luca.cn/chat)：面壁智能旗下   
+[百川大模型](https://www.baichuan-ai.com/chat?from=%2Fhome)：聊天，写代码             
+[YMI.AI-快捷、高效的人工智能創作平台](https://ymi.ai/#/chat/chating)：聊天，绘画，初始3000积分可以签到获取积分   
+[文心一言](https://yiyan.baidu.com/)：百度旗下，聊天，绘画，流程图【可以加入插件】    
+[搜索AI伙伴](https://chat.baidu.com/)：百度旗下，聊天，写代码【代码能力强】       
 [AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月2000字数  
 [BingAI](https://github.com/adams549659584/go-proxy-bingai)：三种对话模式  
 [插件](https://chrome.zzzmh.cn/#/index)：进去搜索下载（iTab新标签页、Wetab 新标签页）安装到浏览器即可，里面有内置组件   
-
 # 二：AI绘画
 ## 描述词  
 大多数的AI绘画都会有描述词，很多还会有描述词的增强和减弱，越是详细生成的图片就会精美，这里提供一些方法  
@@ -47,6 +58,12 @@
 [Stable Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：需要安装[Python环境](https://www.python.org/downloads/release/python-3106/)和[Git](https://git-scm.com/download/win)  
 [Civitai](https://civitai.com/)：免费下载stable diffusion 模型，**适合当成素材库**  
 ## 2.国内
+[商汤秒画](https://miaohua.sensetime.com/zh-CN/generate)：商汤旗下【免费】   
+[文心一言](https://yiyan.baidu.com/)：百度旗下，聊天，绘画，流程图，可以加入插件   
+[讯飞星火认知大模型](https://xinghuo.xfyun.cn/desk)：科大讯飞旗下，PPT，绘画，编程，简历生成，不同角色【可以加入插件】   
+[360智脑 - 体验平台](https://chat.360.com/?src=ai_360_com)：360旗下，不同角色，绘画，写代码   
+[360智绘](https://aigc.360.com/?src=ai_360_com)：360旗下，初始100图豆   
+[360鸿图](https://tu.360.cn/editor)：360旗下  
 [海艺seaart](https://www.seaart.ai/s/o3731-)：个人感觉质量美感还是不错的，也会有意境
 [XCole](https://www.xcole.cn/?c=yjpoo&seed=1701270952)：初始130能量   
 ## 3.插件
@@ -75,6 +92,9 @@
 [Slideshare](https://www.slideshare.net/)   
 [PPTmon](https://pptmon.com/)   
 ## 2.国内
+[MindShow](https://www.mindshow.fun/#/login?inviteCode=7113774)：可以试用【免费】   
+[BusinessAI](https://aichat.kqbusinessai.com/web/#/penandink/login/ptt)：对话，PPT【免费】   
+[讯飞星火认知大模型](https://xinghuo.xfyun.cn/desk)：科大讯飞旗下，PPT，绘画，编程，简历生成，不同角色【可以加入插件】   
 [讯飞智文](https://zhiwen.xfyun.cn/?ch=16862172514)：好用的，初始用户1000积分   
 [AiPPT](https://www.aippt.cn/workspace)：需要登录注册，会员较贵(免费10次)  
 [Ai PPT 比格设计](https://bigesj.com/ai-ppt/)：需要登录注册  
@@ -83,7 +103,7 @@
 [彩漩](https://app.caixuan.cc/recent)   
 [灵感PPT](https://oeldg7.linganoffice.com/home?visit=oeldg7)：初始1500积分   
 [秒出PPT](https://10sppt.com/pptx/edit/workspace)：需要注册登录   
-[]()
+
 # 五：AI导航
 ## 1.国外
 [aidesignresource](https://aidesignresource.com/)   
