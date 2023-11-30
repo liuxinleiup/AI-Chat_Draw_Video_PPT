@@ -12,7 +12,7 @@
 ## 2.国内
 [文心一言](https://yiyan.baidu.com/)：百度旗下，聊天，绘画，流程图，可以加入插件     
 [百度AI](https://chat.baidu.com/)：百度旗下，聊天，写代码        
-[AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月500,000字数  
+[AIWritingPal - AI](https://aiwritingpal.com/?ref=1ev196472024ef0f3a)：有不同角色，每月2000字数  
 [BingAI](https://github.com/adams549659584/go-proxy-bingai)：三种对话模式  
 [插件](https://chrome.zzzmh.cn/#/index)：进去搜索下载（iTab新标签页、Wetab 新标签页）安装到浏览器即可，里面有内置组件   
 
