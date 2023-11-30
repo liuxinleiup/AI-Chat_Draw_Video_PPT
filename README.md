@@ -83,13 +83,32 @@
 [彩漩](https://app.caixuan.cc/recent)   
 [灵感PPT](https://oeldg7.linganoffice.com/home?visit=oeldg7)：初始1500积分   
 [秒出PPT](https://10sppt.com/pptx/edit/workspace)：需要注册登录   
-
-# 五：AI相关
-[ainav](https://www.ainav.cn/)：汇集了很多平台  
-[非猪AI导航](https://feizhuke.com/aippt-tuijian.html)：汇集了很多平台   
-
-
-
+[]()
+# 五：AI导航
+## 1.国外
+[aidesignresource](https://aidesignresource.com/)   
+[futurepedia](https://www.futurepedia.io/)         
+[futuretools](https://www.futuretools.io/)   
+[theresanaiforthat](https://theresanaiforthat.com/)   
+## 2.国内
+[AI导航网](https://www.ainav.cn/)   
+[amz123](https://www.amz123.com/ai)   
+[AIGC精品导航](http://ai.kcodez.com/)   
+[AAIGC导航](https://deepainav.com/)   
+[AIGC导航](https://www.aigc.cn/)   
+[图钉AI导航](https://ai.tboxn.com/)   
+[工具达人](https://toolsdar.cn/ai)   
+[非猪AI导航](https://feizhuke.com/aippt-tuijian.html)   
+[映技派](https://www.yjpoo.com/)   
+[AI之旅导航](https://www.aijourney.vip/)   
+[AI工具集](https://ai-bot.cn/)   
+[AI导航](https://hao.shenyecg.com/AI)   
+[优设AI导航](https://hao.uisdc.com/ai/)   
+[老北鼻AI工具箱](https://lbbai.com/)   
+[AI指南](https://www.aizhinan.cn/)   
+[轻工具](https://qinggongju.com/)   
+[323AI](https://www.323ai.com/)   
+[春秋搜索导航](https://www.chunqiuss.com/ai)     
 
 
 
